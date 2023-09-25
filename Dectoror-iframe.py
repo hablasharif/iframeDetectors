@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from bs4 import BeautifulSoup
 import re
-from urllib.parse import urlparse
+from urllib.parse import urlparse 
 
 # Function to extract all iframe sources from a URL
 def extract_all_iframe_srcs(url):
