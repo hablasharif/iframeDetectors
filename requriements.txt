@@ -1,4 +1,4 @@
-Beautifulsoup4
+BeautifulSoup
 requests
 lxml
-bs4
+
